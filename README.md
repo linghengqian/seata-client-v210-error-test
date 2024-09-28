@@ -1,6 +1,6 @@
-# seata-client-graalvm-native-test
+# seata-client-v210-error-test
 
-- For https://github.com/apache/incubator-seata/issues/6686 and https://github.com/raphw/byte-buddy/issues/1588 .
+- For https://github.com/apache/incubator-seata/issues/6886 and https://github.com/apache/shardingsphere/pull/33030 .
 - Verified under `Ubuntu 22.04.4 LTS` with `Docker Engine` and `SDKMAN!`.
 
 ```bash
